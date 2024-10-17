@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    />
+    <div
+      class="slds-box slds-p-around_medium"
+    >
+      <button
+        class="slds-button slds-button_brand slds-m-bottom_medium"
+      >
+        Add Task
+      </button>
+      <div
+        class="slds-box slds-p-around_medium"
+      >
+        <h1
+          style="font-weight: bold; font-size: 24px; text-align: left; margin-bottom: 20px;"
+        >
+          Task Management Application
+        </h1>
+        <table
+          class="slds-table slds-table_bordered slds-table_fixed-layout"
+        >
+          <thead>
+            <tr>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Assigned To
+                </div>
+              </th>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Status
+                </div>
+              </th>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Due Date
+                </div>
+              </th>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Priority
+                </div>
+              </th>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Comments
+                </div>
+              </th>
+              <th
+                scope="col"
+              >
+                <div
+                  class="slds-truncate"
+                >
+                  Actions
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td
+                class="slds-text-align_center"
+                colspan="6"
+              >
+                No tasks available
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
